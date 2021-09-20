@@ -1,14 +1,8 @@
 # Aanalytics Vidya WNS Analytics Wizard 2019 - Click Prediction
 
-![title](img/wns1.png)
-![title](img/wns2.png)
-![title](img/wns3.png)
-![title](img/wns4.png)
-
-
-
 # Note
-* **Solution - Part 1.ipynb**
+* **Solutions**
+
 Created Three Models
 1. Light Gradient Boosting Machine Model with Hyperparameter Tuning
 2. Catboost Model with Hyperparameter Tuning
