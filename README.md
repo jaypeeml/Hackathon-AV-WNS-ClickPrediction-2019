@@ -1,4 +1,4 @@
-# Aanalytics Vidya WNS Analytics Wizard 2019 - Click Prediction
+# Analytics Vidya WNS Analytics Wizard 2019 - Click Prediction
 
 # Note
 * **Solutions**
